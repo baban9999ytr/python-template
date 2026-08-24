@@ -10,10 +10,10 @@ This Privacy Policy outlines how **[Project Name]** handles user data and privac
 
 **[Project Name]** is designed to run locally on your system.
 
-* **No Telemetry:** We do not collect, store, or transmit telemetry, tracking data, or usage metrics.
-* **No Personal Data Harvesting:** The software does not harvest, aggregate, or transmit any personally identifiable information (PII).
+- **No Telemetry:** We do not collect, store, or transmit telemetry, tracking data, or usage metrics.
+- **No Personal Data Harvesting:** The software does not harvest, aggregate, or transmit any personally identifiable information (PII).
 
-*(If your project interacts with external APIs, databases, or third-party services, list any data transmitted to those endpoints here.)*
+_(If your project interacts with external APIs, databases, or third-party services, list any data transmitted to those endpoints here.)_
 
 ---
 
@@ -21,8 +21,8 @@ This Privacy Policy outlines how **[Project Name]** handles user data and privac
 
 If you choose to use third-party libraries, services, or APIs alongside this software:
 
-* Any data transmitted to external services is governed by the respective privacy policies of those third-party providers.
-* Users are responsible for configuring their own credentials, API keys, and access tokens securely.
+- Any data transmitted to external services is governed by the respective privacy policies of those third-party providers.
+- Users are responsible for configuring their own credentials, API keys, and access tokens securely.
 
 ---
 
@@ -32,8 +32,8 @@ Since processing occurs locally on your machine, the security of any local confi
 
 We strongly advise:
 
-* Never committing credentials, API keys, or sensitive environment variables (`.env` files) to public Git repositories.
-* Keeping system dependencies and python environments updated.
+- Never committing credentials, API keys, or sensitive environment variables (`.env` files) to public Git repositories.
+- Keeping system dependencies and python environments updated.
 
 ---
 
@@ -41,12 +41,12 @@ We strongly advise:
 
 If you have any questions or security concerns regarding this privacy policy or the repository, please open an issue or reach out via:
 
-* **Repository:** [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY)
-* **Email:** [your.email@example.com]
+- **Repository:** [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY)
+- **Email:** [your.email@example.com]
 
 ---
 
-*Last updated: [Month, Year]*
+_Last updated: [Month, Year]_
 
 > **IMPORTANT WARNING FOR USERS OF THIS TEMPLATE**
 >

@@ -36,3 +36,4 @@ Open `pyproject.toml` and update the project metadata:
 
    ```bash
    mv src/my_package src/your_package_name
+   ```
